@@ -1,0 +1,28 @@
+﻿{
+  
+  "GeneralProperty": {
+    "Language": 4,
+    "ToothNoNotation": 0,
+    "DoseUnit": 0,
+    "LocalStoragePath": null,
+    "InstitutionName": null,
+    "Telephone": null,
+    "Fax": null,
+    "Address": null,
+    "Homepage": null,
+    "Logo": null,
+    "ImageType": 0,
+    "DefaultBrightness": 0.0,
+    "DefaultContrast": 0.0,
+    "WindowCenter": 0,
+    "WindowWidth": 0,
+    "DeviceType": 0,
+    "ResolutionWidth": 0,
+    "ResolutionHeight": 0,
+    "CalibrationDataFilePath": null
+  },
+  "SelectedStorageServerProperty": null,
+  "SelectedWorklistServerProperty": null,
+  "StorageServerTableProperty": [],
+  "WorklistServerTableProperty": []
+}
